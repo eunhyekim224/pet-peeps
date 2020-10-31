@@ -1,2 +1,4 @@
-# dog_biz_finder
+# pet peeps
+
+A web application for finding nearby pet-friendly businesses 
 
